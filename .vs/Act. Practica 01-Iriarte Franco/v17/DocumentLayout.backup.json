@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\data\\implementaciones\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\implementaciones\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\service\\detalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:service\\detalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\data\\implementaciones\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\implementaciones\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\data\\interfaces\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\interfaces\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\data\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|d:\\viusal studio\\forms\\act. practica 01-iriarte franco\\data\\parametrosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\parametrosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\DataHelper.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\DataHelper.cs",
+              "RelativeToolTip": "Data\\DataHelper.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:38:32.029Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleService.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Service\\DetalleService.cs",
+              "RelativeDocumentMoniker": "Service\\DetalleService.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Service\\DetalleService.cs",
+              "RelativeToolTip": "Service\\DetalleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:05:05.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Service\\FacturaService.cs",
+              "RelativeDocumentMoniker": "Service\\FacturaService.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Service\\FacturaService.cs",
+              "RelativeToolTip": "Service\\FacturaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:49:14.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\Implementaciones\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Implementaciones\\FacturaRepository.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\Implementaciones\\FacturaRepository.cs",
+              "RelativeToolTip": "Data\\Implementaciones\\FacturaRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:19:54.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleRepository.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\Implementaciones\\DetalleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Implementaciones\\DetalleRepository.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\Implementaciones\\DetalleRepository.cs",
+              "RelativeToolTip": "Data\\Implementaciones\\DetalleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:46:26.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDetalleRepository.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\Interfaces\\IDetalleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IDetalleRepository.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\Interfaces\\IDetalleRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IDetalleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:45:08.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Domain\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Domain\\DetalleFactura.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Domain\\DetalleFactura.cs",
+              "RelativeToolTip": "Domain\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:41:35.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Domain\\Factura.cs",
+              "RelativeDocumentMoniker": "Domain\\Factura.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Domain\\Factura.cs",
+              "RelativeToolTip": "Domain\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:58:31.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\Interfaces\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IFacturaRepository.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\Interfaces\\IFacturaRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IFacturaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:53:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParametroSP.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\ParametroSP.cs",
+              "RelativeDocumentMoniker": "Data\\ParametroSP.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\Act. Practica 01-Iriarte Franco\\Data\\ParametroSP.cs",
+              "RelativeToolTip": "Data\\ParametroSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:48:20.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
