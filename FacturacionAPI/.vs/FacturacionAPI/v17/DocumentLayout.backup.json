@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose\\Practica01-Facturacion\\FacturacionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2E8CA-4C12-4BBF-AD66-F734CCBD5D57}|FacturacionAPI.csproj|c:\\users\\jose\\practica01-facturacion\\facturacionapi\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2E8CA-4C12-4BBF-AD66-F734CCBD5D57}|FacturacionAPI.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B6578-1ABE-BEA6-B2C4-E504EE1E6EA2}|D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\FacturacionAPILibreria.csproj|d:\\viusal studio\\forms\\facturacionapilibreria\\data\\implementaciones\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B6578-1ABE-BEA6-B2C4-E504EE1E6EA2}|D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\FacturacionAPILibreria.csproj|d:\\viusal studio\\forms\\facturacionapilibreria\\data\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B6578-1ABE-BEA6-B2C4-E504EE1E6EA2}|D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\FacturacionAPILibreria.csproj|d:\\viusal studio\\forms\\facturacionapilibreria\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B6578-1ABE-BEA6-B2C4-E504EE1E6EA2}|D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\FacturacionAPILibreria.csproj|d:\\viusal studio\\forms\\facturacionapilibreria\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B6578-1ABE-BEA6-B2C4-E504EE1E6EA2}|D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\FacturacionAPILibreria.csproj|d:\\viusal studio\\forms\\facturacionapilibreria\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Data\\Implementaciones\\FacturaRepository.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Data\\Implementaciones\\FacturaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:16:45.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Data\\Interfaces\\IFacturaRepository.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Data\\Interfaces\\IFacturaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:16:31.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Service\\FacturaService.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Service\\FacturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:15:39.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Practica01-Facturacion\\FacturacionAPI\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Jose\\Practica01-Facturacion\\FacturacionAPI\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:04:11.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Domain\\Factura.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Domain\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:15:28.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Domain\\DetalleFactura.cs",
+              "ToolTip": "D:\\Viusal Studio\\Forms\\FacturacionAPILibreria\\Domain\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:14:52.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

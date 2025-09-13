@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Act. Practica 01-Iriarte Franco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+223a59cc536618f623e9e57e0bcae6019b1ba512")]
 [assembly: System.Reflection.AssemblyProductAttribute("Act. Practica 01-Iriarte Franco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Act. Practica 01-Iriarte Franco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "APIFacturacion.Controllers.FacturaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIFacturacion.Controllers.FacturaController",
+    "Method": "PostFactura",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "factura",
+        "Type": "Act._Practica_01_Iriarte_Franco.Domain.Factura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIFacturacion.Controllers.FacturaController",
+    "Method": "PutFactura",
+    "RelativePath": "api/Factura/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "factura",
+        "Type": "Act._Practica_01_Iriarte_Franco.Domain.Factura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIFacturacion.Controllers.FacturaController",
+    "Method": "DeleteFactura",
+    "RelativePath": "api/Factura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
