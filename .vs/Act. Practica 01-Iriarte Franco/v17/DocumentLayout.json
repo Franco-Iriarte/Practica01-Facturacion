@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\",
+  "WorkspaceRootPath": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\facturacion-actividad 01 script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:facturacion-actividad 01 script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\data\\implementaciones\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\implementaciones\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\service\\detalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:service\\detalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\data\\implementaciones\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\data\\implementaciones\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\implementaciones\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\data\\interfaces\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\data\\interfaces\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\interfaces\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\service\\detalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:service\\detalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\data\\implementaciones\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\implementaciones\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\facturacion-actividad 01 script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:facturacion-actividad 01 script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\data\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\data\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\data\\parametrosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\data\\parametrosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:data\\parametrosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\desktop\\practica01-facturacion\\facturacion-actividad 01 script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|c:\\users\\jose\\proyectosgit\\practica01-facturacion\\facturacion-actividad 01 script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{3520A133-6DD5-46A1-B0B2-576AFE0BA48B}|Act. Practica 01-Iriarte Franco.csproj|solutionrelative:facturacion-actividad 01 script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
@@ -58,15 +58,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "Data\\DataHelper.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\DataHelper.cs",
               "RelativeToolTip": "Data\\DataHelper.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAIwD4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,12 +74,16 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Facturacion-Actividad 01 script.sql ",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Facturacion-Actividad 01 script.sql",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Facturacion-Actividad 01 script.sql",
               "RelativeDocumentMoniker": "Facturacion-Actividad 01 script.sql",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Facturacion-Actividad 01 script.sql",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Facturacion-Actividad 01 script.sql",
               "RelativeToolTip": "Facturacion-Actividad 01 script.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-09-08T03:22:38.34Z",
@@ -87,72 +91,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DetalleService.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Service\\DetalleService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Service\\DetalleService.cs",
               "RelativeDocumentMoniker": "Service\\DetalleService.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Service\\DetalleService.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Service\\DetalleService.cs",
               "RelativeToolTip": "Service\\DetalleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T03:05:05.576Z"
+              "WhenOpened": "2025-09-08T03:05:05.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FacturaService.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Service\\FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Service\\FacturaService.cs",
               "RelativeDocumentMoniker": "Service\\FacturaService.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Service\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Service\\FacturaService.cs",
               "RelativeToolTip": "Service\\FacturaService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T02:49:14.628Z"
+              "WhenOpened": "2025-09-08T02:49:14.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FacturaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\Implementaciones\\FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\Implementaciones\\FacturaRepository.cs",
               "RelativeDocumentMoniker": "Data\\Implementaciones\\FacturaRepository.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\Implementaciones\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\Implementaciones\\FacturaRepository.cs",
               "RelativeToolTip": "Data\\Implementaciones\\FacturaRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowEAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T00:19:54.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DetalleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\Implementaciones\\DetalleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\Implementaciones\\DetalleRepository.cs",
               "RelativeDocumentMoniker": "Data\\Implementaciones\\DetalleRepository.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\Implementaciones\\DetalleRepository.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\Implementaciones\\DetalleRepository.cs",
               "RelativeToolTip": "Data\\Implementaciones\\DetalleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T19:46:26.092Z"
+              "WhenOpened": "2025-09-06T19:46:26.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "IDetalleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\Interfaces\\IDetalleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\Interfaces\\IDetalleRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IDetalleRepository.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\Interfaces\\IDetalleRepository.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\Interfaces\\IDetalleRepository.cs",
               "RelativeToolTip": "Data\\Interfaces\\IDetalleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T19:45:08.054Z"
+              "WhenOpened": "2025-09-06T19:45:08.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "DetalleFactura.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Domain\\DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Domain\\DetalleFactura.cs",
               "RelativeDocumentMoniker": "Domain\\DetalleFactura.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Domain\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Domain\\DetalleFactura.cs",
               "RelativeToolTip": "Domain\\DetalleFactura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,9 +170,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Domain\\Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Domain\\Factura.cs",
               "RelativeDocumentMoniker": "Domain\\Factura.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Domain\\Factura.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Domain\\Factura.cs",
               "RelativeToolTip": "Domain\\Factura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,9 +182,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IFacturaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\Interfaces\\IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\Interfaces\\IFacturaRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IFacturaRepository.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\Interfaces\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\Interfaces\\IFacturaRepository.cs",
               "RelativeToolTip": "Data\\Interfaces\\IFacturaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ParametroSP.cs",
-              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\ParametroSP.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\ParametroSP.cs",
               "RelativeDocumentMoniker": "Data\\ParametroSP.cs",
-              "ToolTip": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Data\\ParametroSP.cs",
+              "ToolTip": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Data\\ParametroSP.cs",
               "RelativeToolTip": "Data\\ParametroSP.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

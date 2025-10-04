@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oB7ZeQnWHH4=",
+  "dgSpecHash": "QW20yCFWagU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj",
+  "projectFilePath": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Jose\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

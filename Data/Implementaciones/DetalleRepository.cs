@@ -11,7 +11,7 @@ namespace Act._Practica_01_Iriarte_Franco.Data.Implementaciones
 {
     public class DetalleRepository : IDetalleRepository
     {
-        public bool Delete(int id)
+        public bool DDelete(int id)
         {
             List<ParametroSP> parametros = new List<ParametroSP>();
             new ParametroSP()

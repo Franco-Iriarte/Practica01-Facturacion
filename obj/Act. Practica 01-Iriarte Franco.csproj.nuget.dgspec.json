@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj": {}
+    "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj": {
+    "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj",
         "projectName": "Act. Practica 01-Iriarte Franco",
-        "projectPath": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj",
+        "projectPath": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\Act. Practica 01-Iriarte Franco.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\Desktop\\Practica01-Facturacion\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\ProyectosGit\\Practica01-Facturacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

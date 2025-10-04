@@ -11,7 +11,7 @@ namespace Act._Practica_01_Iriarte_Franco.Data.Interfaces
     {
         List<DetalleFactura> GetAll();
         bool Save(DetalleFactura detallefactura);
-        bool Delete(int id);
+        bool DDelete(int id);
 
     }
 
